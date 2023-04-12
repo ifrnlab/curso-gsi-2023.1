@@ -56,19 +56,4 @@ Avaliações escritas e práticas; trabalhos individuáis e em grupo (listas de 
 
 ### Bibliografia Básica
 
-1. FERNANDES, Aguinaldo Aragon; ABREU, Vladimir Ferraz de. Implantando a governança em TI:
-da estratégia à gestão dos processos e serviços. 4. ed. Rio de Janeiro: Brasport, 2014. 630 p. il.
-1. DAVENPORT, Thomas. Tecnologia e gestão da informação. Rio de Janeiro: Elsevier, 2009. 144
-p.
-1. SOUSA NETO, Manoel Veras de; RAMOS, Anatália Saraiva Martins. Gestão da tecnologia da
-informação: casos e textos nacionais. Natal: EDUFRN, 2011. 385 p. il.
-
-
 ### bibliograia Complementar
-
-1. MONTEIRO, Armando. Certificação PMP: cobertura completa do PMBOK. 3. ed. Rio de Janeiro:
-Brasport, 2006. ISBN 85-7452-225-2.
-2. STAREC, Claudio; GOMES, Elisabeth; BEZERRA, Jorge. Gestão estratégica da informação e
-inteligência competitiva. São Paulo: Saraiva, 2006. 351 p. il.
-3. STEINBERG, Herbert. A dimensão humana da governança corporativa: pessoas criam as
-melhores e as piores práticas. 3. ed São Paulo: Gente, 2003. 247p.
