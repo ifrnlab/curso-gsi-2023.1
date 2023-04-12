@@ -1,0 +1,9 @@
+furo
+myst-parser
+sphinx
+sphinx-autobuild
+sphinx-copybutton
+sphinx-multiversion
+sphinx-rtd-theme
+sphinxcontrib-mermaid
+sphinxcontrib-bibtex

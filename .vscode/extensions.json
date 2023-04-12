@@ -1,0 +1,18 @@
+{
+    "recommendations": [
+        "bbenoist.shell",
+        "christian-kohler.path-intellisense",
+        "docsmsft.docs-markdown",
+        "docsmsft.docs-yaml",
+        "ExecutableBookProject.myst-highlight",
+        "formulahendry.code-runner",
+        "foxundermoon.shell-format",
+        "funkyremi.vscode-google-translate",
+        "redhat.vscode-yaml",
+        "rpinski.shebang-snippets",
+        "shd101wyy.markdown-preview-enhanced",
+        "timonwong.shellcheck",
+        "vscode-icons-team.vscode-icons",
+        "yzhang.markdown-all-in-one"
+    ]
+}
