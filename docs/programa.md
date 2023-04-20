@@ -26,7 +26,7 @@
 3. Serviços para Internet
    
    1. Configuração de serviços de acesso remoto       
-   2. Visão geral de congiguração de servidores e serviços     
+   2. Visão geral de configuração de servidores e serviços
    3. Configuração de servidores de aplicação         
    4. Configuração de servidores de diretórios           
    5. Configuração de servidores de eventos         
