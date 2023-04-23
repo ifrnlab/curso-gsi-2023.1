@@ -17,7 +17,7 @@ release = '2023'
 extensions = [
     'myst_parser',
     'sphinxcontrib.bibtex',
-    'sphinxcontrib.mermaid',
+#    'sphinxcontrib.mermaid',
 ]
 
 bibtex_bibfiles = [

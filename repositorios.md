@@ -1,0 +1,8 @@
+# Repositórios
+
+Repositórios privados de:
+
+- [Andressa](https://github.com/AndressaLF/livro-gsi-2023-1.git)
+- [JoaoVictor](https://github.com/JVictor1012/livro-gsi-2023-1.git)
+- [Marcilio](https://github.com/marcilio-freitas27/livro-gsi-2023-1.git)
+- [Poliana](https://github.com/PolianaR/livro-gsi-2023-1.git)
